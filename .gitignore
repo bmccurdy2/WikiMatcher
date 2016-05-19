@@ -1,0 +1,11 @@
+
+.project
+.classpath
+data/
+bin/
+
+src/toUseOrNotToUse/WordFrequency_AllRuns.java
+src/toUseOrNotToUse/WordFrequency.java
+src/tfidf/TfIdf.java
+src/tfidf/DocumentParser.java
+src/tfidf/CosineSimilarity.java
